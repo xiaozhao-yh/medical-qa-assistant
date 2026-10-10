@@ -1,0 +1,8 @@
+gradio>=3.0
+numpy
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+PyPDF2>=3.0.0
+requests>=2.28.0
+tqdm
+openai>=1.0.0
